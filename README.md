@@ -10,13 +10,12 @@ https://drive.google.com/file/d/1wjXeUp64Yk8PBU7wB4v9kObjhiW8bBBn/view?usp=shari
 ## Raw output data (dose rate maps)
 https://drive.google.com/file/d/1ol0GZv-pod6oHXO7LLxxjRGnmPfTb4gS/view?usp=sharing
 
-Train set (n = 524):
-input: sg_train_a.pt, output: sg_train_u.pt
-input: dP_train_a.pt, output: dP_train_u.pt
+## Processed input data
+Train set (n = 524), Test set (n = 92):
+https://drive.google.com/drive/folders/1kVCCGNT7zI-RxGvolA3ylC4_dhXscRFT?usp=sharing
 ## Output data
-Test set (n = 92):
-input: sg_test_a.pt, output: sg_test_u.pt
-input: dP_test_a.pt, output: dP_test_u.pt
+Train set (n = 524), Test set (n = 92):
+https://drive.google.com/drive/folders/1PnUT-xd2H6C-TJTosuB_1sLKy9R_Whaa?usp=sharing
 
 # Pre-trained models
 The pre-trained models is available at: https://drive.google.com/file/d/191N_DdNJ2OWIklsVCdZc8_EIjU1ODZ-R/view?usp=sharing
